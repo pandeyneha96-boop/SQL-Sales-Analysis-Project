@@ -1,0 +1,27 @@
+# SQL Music Store Analysis
+
+## Project Overview
+This project analyzes a digital music store database using SQL queries.
+
+## Tools Used
+- PostgreSQL
+- SQL
+- GitHub
+
+## Concepts Used
+- JOIN
+- GROUP BY
+- ORDER BY
+- Aggregate Functions
+- Subqueries
+
+## Project Files
+- MusicDatabaseSchema.png
+- Music_Store_Query.sql
+- Music Store Analysis-Questions.pdf
+
+## Key Insights
+- Senior most employee analysis
+- Country-wise invoice analysis
+- Top customers identification
+- Sales and revenue insights
